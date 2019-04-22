@@ -1,6 +1,7 @@
 {
-    "name": "clegginabox/pdf-merger",
+    "name": "sincco/pdf-merger",
     "description": "PDF File Merger for PHP5",
+    "version": "1.0.0",
     "require": {
         "setasign/fpdi": "dev-master"
     },
